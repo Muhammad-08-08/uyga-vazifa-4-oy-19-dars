@@ -1,0 +1,124 @@
+{
+  "messages": [
+    {
+      "id": "1",
+      "sender": "Alice",
+      "message": "Hello, how are you?",
+      "timestamp": "2024-12-04T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "sender": "Bob",
+      "message": "I'm good, thanks! How about you?",
+      "timestamp": "2024-12-04T10:05:00Z"
+    },
+    {
+      "id": "7ac4",
+      "sender": "You",
+      "message": "csdcsd",
+      "timestamp": "2024-12-04T05:59:35.958Z"
+    },
+    {
+      "id": "e3ea",
+      "sender": "Bob",
+      "message": "dwe",
+      "timestamp": "2024-12-04T06:20:17.937Z"
+    },
+    {
+      "id": "5b09",
+      "sender": "Bob",
+      "message": "what is going on",
+      "timestamp": "2024-12-04T06:32:58.218Z"
+    },
+    {
+      "id": "b2d3",
+      "sender": "You",
+      "message": "hi",
+      "timestamp": "2024-12-04T06:33:12.120Z"
+    },
+    {
+      "id": "abf9",
+      "sender": "You",
+      "message": "csdcsd",
+      "timestamp": "2024-12-04T06:34:45.199Z"
+    },
+    {
+      "id": "d965",
+      "sender": "Ozodbek",
+      "message": "hammaga salom",
+      "timestamp": "2024-12-04T06:35:10.468Z"
+    },
+    {
+      "id": "83a2",
+      "sender": "John",
+      "message": "ygjgjh",
+      "timestamp": "2024-12-04T06:38:47.893Z"
+    },
+    {
+      "id": "a513",
+      "sender": "John",
+      "message": "dscsdc",
+      "timestamp": "2024-12-04T06:40:03.234Z"
+    },
+    {
+      "id": "1fc5",
+      "sender": "John",
+      "message": "csdcsd",
+      "timestamp": "2024-12-04T06:40:06.057Z"
+    },
+    {
+      "id": "d918",
+      "sender": "Test",
+      "message": "csdcsd",
+      "timestamp": "2024-12-04T06:45:31.218Z"
+    },
+    {
+      "id": "4ebb",
+      "sender": "You",
+      "message": "muhammad",
+      "timestamp": "2024-12-04T12:48:35.492Z"
+    },
+    {
+      "id": "c305",
+      "sender": "You",
+      "message": "salom",
+      "timestamp": "2024-12-04T12:48:44.785Z"
+    },
+    {
+      "id": "3c6f",
+      "sender": "You",
+      "message": "salom hammaga",
+      "timestamp": "2024-12-04T12:49:37.089Z"
+    },
+    {
+      "id": "7996",
+      "sender": "You",
+      "message": "salom",
+      "timestamp": "2024-12-04T12:51:32.865Z"
+    },
+    {
+      "id": "f340",
+      "sender": "You",
+      "message": "salom",
+      "timestamp": "2024-12-04T12:54:58.496Z"
+    },
+    {
+      "id": "3bc8",
+      "sender": "muhammad",
+      "message": "muhammad",
+      "timestamp": "2024-12-04T12:55:24.422Z"
+    },
+    {
+      "id": "e592",
+      "sender": "muhammad",
+      "message": "nima gaplar",
+      "timestamp": "2024-12-04T12:55:35.912Z"
+    },
+    {
+      "id": "9626",
+      "sender": "nuraliyev",
+      "message": "muhammad nuraliyev",
+      "timestamp": "2024-12-04T13:00:16.186Z"
+    }
+  ]
+}

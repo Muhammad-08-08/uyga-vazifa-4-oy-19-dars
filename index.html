@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Document</title>
+</head>
+<body class="bg-[lightgray]">
+    <div
+        class="container w-[500px] h-[600px] p-10 bg-white flex flex-col gap-4 rounded-lg mx-auto mt-[3%] overflow-auto shadow-lg relative">
+        <div class="item bg-gray-100 p-4 rounded-md mb-4">
+        </div>
+
+        <div class="item bg-gray-100 p-4 rounded-md"></div>
+    </div>
+    <div
+        class="fixed bottom-0 left-1/2 transform -translate-x-1/2 w-[500px] bg-white py-4 px-6  flex flex-col gap-4 shadow-lg rounded-t-lg">
+        <form action="" class="flex flex-col gap-4 forma">
+            <input class="w-[100%] h-[50px] border border-gray-300 rounded-lg px-4" type="text"
+                placeholder="matn kiriting ...">
+            <button
+                class="w-[100%] h-[50px] bg-blue-500 rounded-lg hover:bg-blue-800 transition-all active:scale-95 text-white font-bold">
+                SEND
+            </button>
+        </form>
+        <button
+            class="change_name w-[100%] h-[50px] bg-orange-500 rounded-lg hover:bg-orange-800 transition-all active:scale-95 text-white font-bold">
+            CHANGE NAME
+        </button>
+    </div>
+    <script src="./app.js"></script>
+</body>
+</html>
